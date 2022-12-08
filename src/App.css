@@ -1,0 +1,30 @@
+.p1{
+    width: 50%;
+    padding: 2%;
+    border-radius: 10px;
+}
+.Red{
+    background-color: rgba(255, 0, 0, 0.473);
+}
+.Yellow{
+    background-color: rgba(255, 255, 0, 0.562);
+}
+.Green{
+    background-color: rgba(0, 128, 0, 0.452);
+}
+.ActiveRed{
+    background-color: red;
+}
+.ActiveYellow{
+    background-color: yellow;
+}
+.ActiveGreen{
+    background-color: rgb(0, 177, 0);
+}
+.circle{
+    width: 80px;
+    height: 80px;
+    margin: 5px auto;
+    box-sizing: border-box;
+    border-radius: 40px;
+}
